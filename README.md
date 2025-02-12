@@ -24,24 +24,24 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository or download the source code:
 
-   \`\`\`
+   ```
    git clone https://github.com/yourusername/code-snippet-manager.git
    cd code-snippet-manager
-   \`\`\`
+   ```
 
 2. Install the required dependencies:
 
-   \`\`\`
+   ```
    pip install PySide6 Pygments
-   \`\`\`
+   ```
 
 ## Usage
 
 To run the Code Snippet Manager, execute the following command in the project directory:
 
-\`\`\`
+```
 python code_snippet_manager.py
-\`\`\`
+```
 
 ### Main Interface
 
