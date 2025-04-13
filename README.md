@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository or download the source code:
 
    ```
-   git clone https://github.com/yourusername/code-snippet-manager.git
+   git clone https://github.com//code-snippet-manager.git
    cd code-snippet-manager
    ```
 
