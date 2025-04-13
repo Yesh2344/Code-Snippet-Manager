@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository or download the source code:
 
    ```
-   git clone https://github.com/yesh/code-snippet-manager.git
+   git clone https://github.com/yesh2344/code-snippet-manager.git
    cd code-snippet-manager
    ```
 
