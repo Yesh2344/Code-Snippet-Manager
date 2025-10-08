@@ -15,6 +15,7 @@ Code Snippet Manager is a desktop application built with Python and PySide6 that
 
 ## Prerequisites
 
+Before you begin, ensure you have met the following requirements:
 
 - Python 3.7 or higher
 - pip (Python package installer)
