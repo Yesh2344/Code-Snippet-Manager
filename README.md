@@ -1,3 +1,4 @@
+# Code Snippet Manager
 
 Code Snippet Manager is a desktop application built with Python and PySide6 that allows developers to easily store, organize, and retrieve code snippets. It features syntax highlighting, search functionality, and import/export capabilities.
 
