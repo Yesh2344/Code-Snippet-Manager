@@ -62,6 +62,7 @@ class CodeSnippetManager(QMainWindow):
         save_button.setIcon(QIcon.fromTheme("document-save"))
         save_button.clicked.connect(self.save_changes)
         delete_button = QPushButton("Delete Snippet")
+# Added comment
         delete_button.setIcon(QIcon.fromTheme("edit-delete"))
         delete_button.clicked.connect(self.delete_snippet)
         export_button = QPushButton("Export Snippet")
