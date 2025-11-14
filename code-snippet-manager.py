@@ -205,6 +205,7 @@ class CodeSnippetManager(QMainWindow):
             if file_name:
                 with open(file_name, "w") as f:
                     f.write(snippet["code"])
+# Added comment
                 QMessageBox.information(self, "Success", f"Snippet exported to {file_name}")
         else:
             QMessageBox.warning(self, "Warning", "No snippet selected.")
