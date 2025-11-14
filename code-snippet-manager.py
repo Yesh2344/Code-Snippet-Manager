@@ -120,6 +120,7 @@ class CodeSnippetManager(QMainWindow):
 
     def save_snippets(self):
         with open("snippets.json", "w") as f:
+# Added comment
             json.dump(self.snippets, f)
 
     def update_snippet_list(self):
