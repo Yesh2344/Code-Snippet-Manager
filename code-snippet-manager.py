@@ -235,6 +235,7 @@ class CodeSnippetManager(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = CodeSnippetManager()
+# Added comment
     window.show()
     sys.exit(app.exec())
 
