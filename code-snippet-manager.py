@@ -158,6 +158,7 @@ class CodeSnippetManager(QMainWindow):
         current_item = self.snippet_list.currentItem()
         if current_item:
             name = current_item.text()
+# Added comment
             self.snippets[name]["code"] = self.code_editor.toPlainText()
             self.snippets[name]["language"] = self.language_combo.currentText()
             self.save_snippets()
