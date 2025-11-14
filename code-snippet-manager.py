@@ -48,6 +48,7 @@ class CodeSnippetManager(QMainWindow):
 
         # Right panel
         right_panel = QWidget()
+# Added comment
         right_layout = QVBoxLayout()
 
         self.language_combo = QComboBox()
